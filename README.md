@@ -20,3 +20,32 @@ Q.1 Considering the top 5 groups with the highest average monthly charges among 
 Q.2  What are the feedback or complaints from those churned customers?
 
 Q.3 How does the payment method influence churn behavior?
+
+## Project Documentation
+
+For full details, please refer to the [project PDF](https://drive.google.com/file/d/1QHSS1joIxgTRIGscfvh3cDAM7Obf8wW3/view?usp=sharing)
+
+## Summary
+
+The analysis of the customer churn dataset is essential for the telco company to maintain a thriving business. Through this
+data, several key insights have been uncovered, which can help the company retain customers and strengthen its competitive
+position in the telecommunications market.
+
+### Key Insights
+
+1. **Personalized Offers Based on Customer Groups:**
+   * Analyze churned customers with the highest average monthly charges.
+   * Identify patterns based on age, gender, and contract type.
+   * Offer tailored plans to specific customer groups.
+
+2. **Understanding Customer Complaints:**
+   * Identify top reasons for churn, such as competitor advantages and customer service issues.
+   * Improve device quality, offer competitive pricing, and enhance customer support.
+
+3. **Impact of Payment Method on Churn:**
+   * Analyze the relationship between payment method and churn rate.
+   * Encourage customers to switch to more convenient payment options like credit cards.
+
+### Conclusion
+
+This analysis provides the telco company with actionable insights into customer behavior. By implementing personalized offers, improving customer service, and promoting automated payment methods, the company can reduce churn, enhance customer loyalty, and ultimately achieve long-term success in the competitive telecommunications market.
