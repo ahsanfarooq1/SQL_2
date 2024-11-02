@@ -13,4 +13,10 @@ services used, payment methods, and reasons for churn. It has been cleaned and p
 where unnecessary columns were removed, and tables were joined using INDEX & MATCH functions
 ## Dataset
 You can visit clean dataset used for this analysis [here](
+
 ## KPI's Questions to to answered
+Q.1 Considering the top 5 groups with the highest average monthly charges among churned customers, how can personalized offers be tailored based on age, gender, and contract type to  potentially improve customer retention rates?
+
+Q.2  What are the feedback or complaints from those churned customers?
+
+Q.3 How does the payment method influence churn behavior?
